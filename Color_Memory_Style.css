@@ -1,0 +1,1211 @@
+@charset "utf-8";
+/* CSS Document for index.html the main application, Author: Tommy van Burk, 2023 */
+body {
+    background-color: #8aad99;
+}
+
+@keyframes chcolor {
+    0% {background-color: blue;}
+    25% {background-color: blueviolet;}
+    50% {background-color: chartreuse;}
+    75% {background-color: bisque;}
+    100% {background-color: chocolate;} 
+}
+
+#block_1 {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 0.5s;
+    animation-iteration-count: 2;*/
+}
+
+#block_2 {
+    position: absolute;
+    top: 100px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 1s;
+    animation-iteration-count: 2;*/
+}
+
+#block_3 {
+    position: absolute;
+    top: 100px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-delay: 2s;
+    animation-iteration-count: 2;*/
+}
+
+#block_4 {
+    position: absolute;
+    top: 100px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 3s;
+    animation-iteration-count: 2;*/
+}
+
+#block_5 {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    animation-delay: 4s;
+    animation-iteration-count: 2;*/
+}
+
+#block_6 {
+    position: absolute;
+    top: 100px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 4s;
+    animation-timing-function: ease;
+    animation-delay: 5s;
+    animation-iteration-count: 2;*/
+}
+
+#block_7 {
+    position: absolute;
+    top: 100px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 4s;
+    animation-timing-function: ease;
+    animation-delay: 6s;
+    animation-iteration-count: 2;*/
+}
+
+#block_8 {
+    position: absolute;
+    top: 100px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 4s;
+    animation-timing-function: ease;
+    animation-delay: 7s;
+    animation-iteration-count: 2;*/
+}
+
+#block_9 {
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_10 {
+    position: absolute;
+    top: 180px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_11 {
+    position: absolute;
+    top: 180px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_12 {
+    position: absolute;
+    top: 180px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_13 {
+    position: absolute;
+    top: 180px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_14 {
+    position: absolute;
+    top: 180px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_15 {
+    position: absolute;
+    top: 180px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_16 {
+    position: absolute;
+    top: 180px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_17 {
+    position: absolute;
+    top: 260px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_18 {
+    position: absolute;
+    top: 260px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_19 {
+    position: absolute;
+    top: 260px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_20 {
+    position: absolute;
+    top: 260px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_21 {
+    position: absolute;
+    top: 260px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_22 {
+    position: absolute;
+    top: 260px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_23 {
+    position: absolute;
+    top: 260px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_24 {
+    position: absolute;
+    top: 260px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_25 {
+    position: absolute;
+    top: 340px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_26 {
+    position: absolute;
+    top: 340px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_27 {
+    position: absolute;
+    top: 340px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_28 {
+    position: absolute;
+    top: 340px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_29 {
+    position: absolute;
+    top: 340px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_30 {
+    position: absolute;
+    top: 340px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_31 {
+    position: absolute;
+    top: 340px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_32 {
+    position: absolute;
+    top: 340px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_33 {
+    position: absolute;
+    top: 420px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_34 {
+    position: absolute;
+    top: 420px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_35 {
+    position: absolute;
+    top: 420px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_36 {
+    position: absolute;
+    top: 420px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_37 {
+    position: absolute;
+    top: 420px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_38 {
+    position: absolute;
+    top: 420px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_39 {
+    position: absolute;
+    top: 420px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_40 {
+    position: absolute;
+    top: 420px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_41 {
+    position: absolute;
+    top: 500px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_42 {
+    position: absolute;
+    top: 500px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_43 {
+    position: absolute;
+    top: 500px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_44 {
+    position: absolute;
+    top: 500px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_45 {
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_46 {
+    position: absolute;
+    top: 500px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_47 {
+    position: absolute;
+    top: 500px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_48 {
+    position: absolute;
+    top: 500px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_49 {
+    position: absolute;
+    top: 580px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_50 {
+    position: absolute;
+    top: 580px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_51 {
+    position: absolute;
+    top: 580px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_52 {
+    position: absolute;
+    top: 580px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_53 {
+    position: absolute;
+    top: 580px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_54 {
+    position: absolute;
+    top: 580px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_55 {
+    position: absolute;
+    top: 580px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_56 {
+    position: absolute;
+    top: 580px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_57 {
+    position: absolute;
+    top: 660px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_58 {
+    position: absolute;
+    top: 660px;
+    left: 160px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_59 {
+    position: absolute;
+    top: 660px;
+    left: 240px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_60 {
+    position: absolute;
+    top: 660px;
+    left: 320px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_61 {
+    position: absolute;
+    top: 660px;
+    left: 400px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_62 {
+    position: absolute;
+    top: 660px;
+    left: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_63 {
+    position: absolute;
+    top: 660px;
+    left: 560px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+#block_64 {
+    position: absolute;
+    top: 660px;
+    left: 640px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border: white 1px solid;
+    /*animation-name: chcolor;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 8s;
+    animation-iteration-count: 2;*/
+}
+
+@keyframes colorch {
+    0% {text-shadow: 5px 5px 3px red;}
+    25% {text-shadow: -3px 6px 5px orange;}
+    50% {text-shadow: 5px 5px 3px black;}
+    75% {text-shadow: -3px 6px 5px red;}
+    100% {text-shadow: 5px 5px 3px orange;} 
+}
+
+#timer {
+    position: absolute;
+    top: 40px;
+    left: 800px;
+    color: brown;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+#score {
+    position: absolute;
+    top: 40px;
+    left: 1110px;
+    color: brown;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+#title {
+	position: absolute;
+	top: 30px;
+	left: 180px;
+	color: beige;
+	font-size: 40px;
+	font-family: Arial;
+	animation-name: colorch;
+    animation-duration: 6s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+
+#audioButton_1 {
+	position: absolute;
+	top: 220px;
+	left: 800px;
+	width: 100px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: red 2px solid;
+	cursor: pointer;
+}
+
+#audioButton_1:hover {
+	opacity: 0.7;
+}
+
+#audioButton_2 {
+	position: absolute;
+	top: 220px;
+	left: 920px;
+	width: 100px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: green 2px solid;
+	cursor: pointer;
+}
+
+#audioButton_2:hover {
+	opacity: 0.7;
+}
+
+#reloadButton {
+	position: absolute;
+	top: 220px;
+	left: 1040px;
+	width: 100px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: blue 2px solid;
+	cursor: pointer;
+
+}
+
+#reloadButton:hover {
+	opacity: 0.7;
+}
+
+#levelText {
+	position: absolute;
+	top: 286px;
+	left: 800px;
+	color: beige;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+#easyButton {
+	position: absolute;
+	top: 320px;
+	left: 800px;
+	width: 40px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: grey 2px solid;
+	cursor: pointer;
+}
+
+#easyButton:hover {
+	opacity: 0.7;
+}
+
+#normalButton {
+	position: absolute;
+	top: 320px;
+	left: 860px;
+	width: 60px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: grey 2px solid;
+	cursor: pointer;
+}
+
+#normalButton:hover {
+	opacity: 0.7;
+}
+
+#extremeButton {
+	position: absolute;
+	top: 320px;
+	left: 942px;
+	width: 68px;
+	height: 20px;
+	background-color: beige;
+	color: black;
+	border-radius: 10px;
+	padding: 5px;
+	border: grey 2px solid;
+	cursor: pointer;
+}
+
+#extremeButton:hover {
+	opacity: 0.7;
+}
+
+#control {
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    color: white;
+	border-radius: 10px;
+	padding: 2px;
+    border: white 1px solid;
+}
+
+.hand:hover {
+    cursor: pointer;
+}
